@@ -16,8 +16,6 @@ The Web-Based MRP for Production Planning is an innovative solution created to a
 The primary objectives of the platform are to:
 - **Optimize Production Scheduling**: Generate efficient production schedules to meet customer demand while minimizing downtime and bottlenecks.
 - **Manage Inventory Levels**: Maintain optimal inventory levels to prevent overstocking and stockouts, ensuring that production processes are not disrupted.
-- **Streamline Procurement**: Automate the procurement process to ensure timely acquisition of materials based on production requirements and inventory levels.
-- **Enhance Decision Making**: Provide real-time data and comprehensive analytics to support informed decision-making by production managers and executives.
 
 ### Key Benefits
 - **User-Friendly Interface**: The platform is designed to be intuitive and easy to navigate, ensuring a smooth user experience for all users, including production managers, inventory controllers, and procurement teams.
