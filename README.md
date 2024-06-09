@@ -50,7 +50,7 @@ Efficient production planning and inventory management are critical to the succe
 - **Generate Reports**: Create detailed reports on production, inventory, and procurement activities, providing insights into operational performance and areas for improvement.
 - **Data Analytics**: Analyze production and inventory data to support informed decision-making, identify trends, and optimize processes.
 
-## Technologies Used
+## Technologies Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: PHP
