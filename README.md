@@ -32,7 +32,6 @@ Efficient production planning and inventory management are critical to the succe
 ### Target Audience
 - **Manufacturers**: Optimize production schedules and manage inventory levels to ensure smooth operations.
 - **Production Managers**: Plan and monitor production processes, ensuring that schedules are met and resources are utilized efficiently.
-- **Procurement Teams**: Ensure timely procurement of materials to support production schedules and prevent delays.
 - **Inventory Managers**: Maintain optimal inventory levels to support production needs and minimize carrying costs.
 
 ## Features
