@@ -25,7 +25,7 @@ The primary objectives of the platform are to:
 - **Scalability**: The platform is scalable to accommodate the needs of small, medium, and large manufacturers, allowing for growth and adaptation to changing business requirements.
 
 ### Why This Project?
-Efficient production planning and inventory management are critical to the success of manufacturing operations. This project aims to address the challenges faced by manufacturers by providing a robust and scalable MRP system. By leveraging modern web technologies, the platform offers a comprehensive solution that enhances productivity, reduces costs, and supports informed decision-making. The Web-Based MRP for Production Planning is designed to be a valuable tool for manufacturers looking to improve their...
+Efficient production planning and inventory management are critical to the success of manufacturing operations. This project aims to address the challenges faced by manufacturers by providing a robust and scalable MRP system. By leveraging modern web technologies, the platform offers a comprehensive solution that enhances productivity, reduces costs, and supports informed decision-making. The Web-Based MRP for Production Planning is designed to be a valuable tool for manufacturers looking to improve their efficiency and overall operational effectiveness.
 
 ### Target Audience
 - **Manufacturers**: Optimize production schedules and manage inventory levels to ensure smooth operations.
